@@ -7,3 +7,4 @@ Pillow
 torch>=1.7
 torchvision
 tqdm
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
